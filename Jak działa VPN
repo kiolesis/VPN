@@ -1,0 +1,7 @@
+Połączenie VPN działa w dwóch etapach. Pierwszy etap to połączenie między naszym urządzeniem, z którego korzystamy, a serwerem VPN. Podczas tego etapu dochodzi do
+zaszyfrowania i tunelowania naszego połączenia. Poprzez takie działanie dostawcy Internetu czy jakieś organizacje rządowe nie są w stanie zobaczyć naszego IP. Drugi
+etap odbywa się między serwerem VPN a Internetem. Oznacza to, że serwer VPN jest takim pośrednikiem między urządzeniem, z którego korzystamy, a Internetem. Dzięki
+działaniu serwera VPN dochodzi do nawiązania połączenia z Internetem. W takiej sytuacji widoczne jest IP serwera VPN, a nie nasze. Dzięki temu możemy korzystać z
+Internetu anonimowo. Kiedy nawiązujemy połączenie z Internetem, używając VPN, wtedy tworzy się tunel między urządzeniem a serwerem VPN. Przez ten tunel wysyłane
+są dane. Ten tunel ma za zadanie chronić nasze dane przed wykorzystaniem ich przez osoby trzecie lub kradzieżą. Tunelem nasze dane docierają do serwera VPN, tam
+są odszyfrowywane i wysyłane dalej, do sieci globalnej. To połączenie nie jest już szyfrowane, gdyż nie ma takiej potrzeby.
